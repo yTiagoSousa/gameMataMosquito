@@ -1,4 +1,4 @@
-# gameMataMosquito
+# Game Mata Mosquito
 Projeto acadêmico. Game com uma pequena edição, brincando com o amigo!
 
 O game foi desenvolvido com objetivo de praticar o desenvolvimento de aplicativos web.
